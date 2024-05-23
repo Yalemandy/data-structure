@@ -1,0 +1,37 @@
+﻿  BinaryTree.c
+  text.c
+  正在生成代码...
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(33,9): error C2085: “BinaryTreeFind”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(36,6): error C2085: “BinaryTreePrevOrder”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(39,6): error C2085: “BinaryTreeInOrder”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(42,6): error C2085: “BinaryTreePostOrder”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(45,6): error C2085: “BinaryTreeLevelOrder”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(48,5): error C2085: “BinaryTreeComplete”: 不在形参表中
+  (编译源文件“BinaryTree.c”)
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(7,6): error C2082: 形参“BinaryTreeDestory”的重定义
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(8,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(10,3): warning C4033: “BinaryTreeLevelKSize”必须返回值
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(11,29): error C2232: “->left”: 左操作数有“struct”类型，使用“.”
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(11,2): error C2198: “BinaryTreeDestory”: 用于调用的参数太少
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(12,29): error C2232: “->right”: 左操作数有“struct”类型，使用“.”
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(12,2): error C2198: “BinaryTreeDestory”: 用于调用的参数太少
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(14,10): error C2440: “初始化”: 无法从“BTNode”转换为“BTNode *”
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(86,5): error C2084: 函数“int BinaryTreeLevelKSize(BTNode *,int *)”已有主体
+  D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.h(30,5):
+  参见“BinaryTreeLevelKSize”的前一个定义
+  
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(94,45): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(94,45): warning C4024: “BinaryTreeLevelKSize”: 形参和实参 2 的类型不同
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(95,38): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\data-structure\gitee\5-22-BinaryTree\5-22-BinaryTree\BinaryTree.c(95,38): warning C4024: “BinaryTreeLevelKSize”: 形参和实参 2 的类型不同

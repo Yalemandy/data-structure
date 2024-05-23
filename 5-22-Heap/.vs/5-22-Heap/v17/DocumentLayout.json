@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-structure\\gitee\\5-22-Heap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590E5BAD-E520-450B-AE1A-93599B4D8C9B}|5-22-Heap\\5-22-Heap.vcxproj|D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{590E5BAD-E520-450B-AE1A-93599B4D8C9B}|5-22-Heap\\5-22-Heap.vcxproj|solutionrelative:5-22-Heap\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:5-22-Heap\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\data.txt",
+              "RelativeDocumentMoniker": "5-22-Heap\\data.txt",
+              "ToolTip": "D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\data.txt",
+              "RelativeToolTip": "5-22-Heap\\data.txt",
+              "ViewState": "AQIAAAuAAQAAAAAAAAAAABqAAQAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-22T11:58:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\text.c",
+              "RelativeDocumentMoniker": "5-22-Heap\\text.c",
+              "ToolTip": "D:\\data-structure\\gitee\\5-22-Heap\\5-22-Heap\\text.c",
+              "RelativeToolTip": "5-22-Heap\\text.c",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAHMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-22T11:00:42.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

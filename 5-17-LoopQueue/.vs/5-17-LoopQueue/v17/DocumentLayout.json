@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-structure\\gitee\\5-17-LoopQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8703005-4F90-46F8-89EC-C4B6B8173C62}|5-17-LoopQueue\\5-17-LoopQueue.vcxproj|D:\\data-structure\\gitee\\5-17-LoopQueue\\5-17-LoopQueue\\LoopQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8703005-4F90-46F8-89EC-C4B6B8173C62}|5-17-LoopQueue\\5-17-LoopQueue.vcxproj|solutionrelative:5-17-LoopQueue\\LoopQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoopQueue.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\5-17-LoopQueue\\5-17-LoopQueue\\LoopQueue.c",
+              "RelativeDocumentMoniker": "5-17-LoopQueue\\LoopQueue.c",
+              "ToolTip": "D:\\data-structure\\gitee\\5-17-LoopQueue\\5-17-LoopQueue\\LoopQueue.c",
+              "RelativeToolTip": "5-17-LoopQueue\\LoopQueue.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-17T04:18:22.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

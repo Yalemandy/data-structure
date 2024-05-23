@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-structure\\gitee\\DLinkList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|D:\\data-structure\\gitee\\DLinkList\\DLinkList\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|solutionrelative:DLinkList\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|solutionrelative:DLinkList\\DLinkList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79C7F063-F76D-4997-A633-AD1CB4F1CC88}|DLinkList\\DLinkList.vcxproj|solutionrelative:DLinkList\\DLinkList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DLinkList.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.c",
+              "RelativeDocumentMoniker": "DLinkList\\DLinkList.c",
+              "ToolTip": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.c",
+              "RelativeToolTip": "DLinkList\\DLinkList.c",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAK0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-09T08:13:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\text.c",
+              "RelativeDocumentMoniker": "DLinkList\\text.c",
+              "ToolTip": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\text.c",
+              "RelativeToolTip": "DLinkList\\text.c",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-09T08:13:03.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DLinkList.h",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.h",
+              "RelativeDocumentMoniker": "DLinkList\\DLinkList.h",
+              "ToolTip": "D:\\data-structure\\gitee\\DLinkList\\DLinkList\\DLinkList.h",
+              "RelativeToolTip": "DLinkList\\DLinkList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T08:12:58.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
