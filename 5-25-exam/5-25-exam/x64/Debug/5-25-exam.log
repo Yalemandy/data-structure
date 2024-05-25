@@ -1,0 +1,10 @@
+﻿  text01.c
+text01.obj : error LNK2005: checkCapacity 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackDestroy 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackInit 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackIsEmpty 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackPop 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackPush 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackSize 已经在 exam.obj 中定义
+text01.obj : error LNK2005: stackTop 已经在 exam.obj 中定义
+D:\Data-Strucruse\5-25-exam\x64\Debug\5-25-exam.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

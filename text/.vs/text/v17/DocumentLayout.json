@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-structure\\gitee\\text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1226EC84-5EDA-459A-9119-5C4CE1C24699}|text\\text.vcxproj|D:\\data-structure\\gitee\\text\\text\\text01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1226EC84-5EDA-459A-9119-5C4CE1C24699}|text\\text.vcxproj|solutionrelative:text\\text01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text01.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\text\\text\\text01.c",
+              "RelativeDocumentMoniker": "text\\text01.c",
+              "ToolTip": "D:\\data-structure\\gitee\\text\\text\\text01.c",
+              "RelativeToolTip": "text\\text01.c",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwDoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-25T12:50:38.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

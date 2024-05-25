@@ -1,0 +1,15 @@
+﻿  text01.c
+D:\data-structure\gitee\text\text\text01.c(14,3): error C2371: “LN”: 重定义；不同的基类型
+  D:\data-structure\gitee\text\text\text01.c(3,25):
+  参见“LN”的声明
+  
+D:\data-structure\gitee\text\text\text01.c(25,15): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\data-structure\gitee\text\text\text01.c(27,9): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\data-structure\gitee\text\text\text01.c(39,26): error C2027: 使用了未定义类型“ListNode”
+  D:\data-structure\gitee\text\text\text01.c(3,16):
+  参见“ListNode”的声明
+  
+D:\data-structure\gitee\text\text\text01.c(45,5): error C2037: “a”的左侧部分指定未定义的结构/联合“ListNode”
+D:\data-structure\gitee\text\text\text01.c(46,5): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\data-structure\gitee\text\text\text01.c(60,5): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”
+D:\data-structure\gitee\text\text\text01.c(61,5): error C2037: “next”的左侧部分指定未定义的结构/联合“ListNode”

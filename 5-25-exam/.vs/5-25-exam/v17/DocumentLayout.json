@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data-Strucruse\\5-25-exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE59EA2-E861-492E-912A-E613CA349A77}|5-25-exam\\5-25-exam.vcxproj|D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE59EA2-E861-492E-912A-E613CA349A77}|5-25-exam\\5-25-exam.vcxproj|solutionrelative:5-25-exam\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE59EA2-E861-492E-912A-E613CA349A77}|5-25-exam\\5-25-exam.vcxproj|D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CE59EA2-E861-492E-912A-E613CA349A77}|5-25-exam\\5-25-exam.vcxproj|solutionrelative:5-25-exam\\text01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text.c",
+              "RelativeDocumentMoniker": "5-25-exam\\text.c",
+              "ToolTip": "D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text.c",
+              "RelativeToolTip": "5-25-exam\\text.c",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-25T12:52:58.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text01.c",
+              "DocumentMoniker": "D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text01.c",
+              "RelativeDocumentMoniker": "5-25-exam\\text01.c",
+              "ToolTip": "D:\\Data-Strucruse\\5-25-exam\\5-25-exam\\text01.c",
+              "RelativeToolTip": "5-25-exam\\text01.c",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAUwGYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-25T12:16:34.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
