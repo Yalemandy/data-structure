@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data-structure\\gitee\\6-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC6C19E-050D-4253-8DA8-FD3FFEE86E2E}|6-2\\6-2.vcxproj|D:\\data-structure\\gitee\\6-2\\6-2\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EC6C19E-050D-4253-8DA8-FD3FFEE86E2E}|6-2\\6-2.vcxproj|solutionrelative:6-2\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\data-structure\\gitee\\6-2\\6-2\\text.c",
+              "RelativeDocumentMoniker": "6-2\\text.c",
+              "ToolTip": "D:\\data-structure\\gitee\\6-2\\6-2\\text.c",
+              "RelativeToolTip": "6-2\\text.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-04T12:52:36.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

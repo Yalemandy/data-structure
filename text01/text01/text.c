@@ -82,8 +82,7 @@ void checkCapacity(Stack* pst) {
     assert(pst);
     if (pst->capacity == pst->size) {
         int newcapacity = pst->capacity == 0 ? 4 : pst->capacity * 2;
-        StackDataType* newa = (StackDataType*)realloc(pst->a,
-            sizeof(StackDataType) * newcapacity);
+        StackDataType* newa = (StackDataType*)realloc(pst->a,sizeof(StackDataType) * newcapacity);
         if (newa == NULL) {
             perror("realloc fail!");
             return;
@@ -114,16 +113,7 @@ int stackIsEmpty(Stack* pst) {
 void stackPush(Stack* pst, StackDataType x) {
     assert(pst);
 
-    if (pst->capacity == pst->size) {
-        int newcapacity = pst->capacity == 0 ? 4 : pst->capacity * 2;
-        StackDataType* newa = (StackDataType*)realloc(pst, sizeof(StackDataType) * newcapacity);
-        if (!newa) {
-            perror("realloc fail!");
-            return;
-        }
-        pst->a = newa;
-        pst->capacity = newcapacity;
-    }
+    checkCapacity(pst);
 
     pst->a[pst->size] = x;
     pst->size++;
@@ -160,7 +150,11 @@ bool isValid(char* s) {
             stackPush(&st, *s);
         }
         else {
+			if (stackIsEmpty(&st))
+				return false;
+
             StackDataType x = stackTop(&st);
+			stackPop(pst);
             if ((x == '(' && *s != ')') ||
                 (x == '[' && *s != ']') ||
                 (x == '{' && *s != '}'))
