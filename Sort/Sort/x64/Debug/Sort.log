@@ -1,0 +1,11 @@
+﻿  Sort.c
+  text.c
+  正在生成代码...
+D:\Data-Strucruse\Sort\Sort\text.c(71,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+text.obj : error LNK2019: 无法解析的外部符号 InsertSort，函数 TestInsertSort 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 ShellSort，函数 TestShellSort 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 SelectSort，函数 TestSelectSort 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 QuickSort，函数 TestQuickSort 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 MergeSortNonR，函数 TestMergeSort 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 CountSort，函数 TestCountSort 中引用了该符号
+D:\Data-Strucruse\Sort\x64\Debug\Sort.exe : fatal error LNK1120: 6 个无法解析的外部命令

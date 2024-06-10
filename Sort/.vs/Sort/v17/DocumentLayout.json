@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Data-Strucruse\\Sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|D:\\Data-Strucruse\\Sort\\Sort\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|solutionrelative:Sort\\Sort.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|D:\\Data-Strucruse\\Sort\\Sort\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|solutionrelative:Sort\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|D:\\Data-Strucruse\\Sort\\Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BFA9C72-B837-405A-9B74-652B3D034DC2}|Sort\\Sort.vcxproj|solutionrelative:Sort\\Sort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\Data-Strucruse\\Sort\\Sort\\text.c",
+              "RelativeDocumentMoniker": "Sort\\text.c",
+              "ToolTip": "D:\\Data-Strucruse\\Sort\\Sort\\text.c",
+              "RelativeToolTip": "Sort\\text.c",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T09:39:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sort.c",
+              "DocumentMoniker": "D:\\Data-Strucruse\\Sort\\Sort\\Sort.c",
+              "RelativeDocumentMoniker": "Sort\\Sort.c",
+              "ToolTip": "D:\\Data-Strucruse\\Sort\\Sort\\Sort.c",
+              "RelativeToolTip": "Sort\\Sort.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T09:39:12.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sort.h",
+              "DocumentMoniker": "D:\\Data-Strucruse\\Sort\\Sort\\Sort.h",
+              "RelativeDocumentMoniker": "Sort\\Sort.h",
+              "ToolTip": "D:\\Data-Strucruse\\Sort\\Sort\\Sort.h",
+              "RelativeToolTip": "Sort\\Sort.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-10T09:39:02.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
